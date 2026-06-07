@@ -1,0 +1,2 @@
+0 Fatigue
+1 Non Fatigue
