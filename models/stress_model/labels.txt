@@ -1,0 +1,2 @@
+0 stress
+1 no stress
