@@ -238,7 +238,6 @@ def show_result(score, label, fatigue_class, stress_class, punctuality_label, co
     cv2.imshow("Human Health Score - Result", panel)
     cv2.waitKey(0)
 
-
 while True:
     ret, frame = cap.read()
     if not ret:
