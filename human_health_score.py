@@ -20,7 +20,7 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 WORK_START_HOUR = 8
 LOG_FILE = 'scan_log.csv'
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 scanned = False
 
 def check_punctuality():
